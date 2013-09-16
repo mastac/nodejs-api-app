@@ -6,6 +6,12 @@
     "express": "3.x",
     "winston" : "*",
     "mongoose": "*",
-    "nconf": "*"
+    "nconf": "*",
+    "Faker": "*",
+    "oauth2orize": "*",
+    "passport":"*",
+    "passport-http":"*",
+    "passport-http-bearer":"*",
+    "passport-oauth2-client-password" :"*"
   }
 }
